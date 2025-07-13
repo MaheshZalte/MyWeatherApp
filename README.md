@@ -1,6 +1,6 @@
 # 🌦️ MyWeatherApp
 
-A Java-based web application that fetches and displays real-time weather information using the **OpenWeatherMap API**. Built with **Servlets, JSP, HTML, CSS, and JavaScript**, and deployable via Docker.
+A Java-based web application that fetches and displays real-time weather information using the **OpenWeatherMap API**. Built with **Servlets, JSP, HTML, CSS, and JavaScript**.
 
 ---
 
@@ -16,39 +16,23 @@ A Java-based web application that fetches and displays real-time weather informa
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Try it on Render](https://your-deployed-url.onrender.com)  
-*(Replace this link after deployment)*
-
----
-
 ## 🖼️ Screenshots
 
 ### 🔸 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](home.png.png)
 
 ### 🔸 Weather Result Page
-![Result Page](screenshots/result.png)
-
----
-
-## 🎥 Video Demo
-
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-*(Optional — add if you upload a YouTube demo)*
+![Result Page](result.png.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Java 8/17**
+- **Java 8/22**
 - **JSP & Servlets**
 - **HTML / CSS / JavaScript**
 - **Apache Tomcat**
 - **OpenWeatherMap API**
-- **Maven**
-- **Docker**
 
 ---
 
